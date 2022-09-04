@@ -1,6 +1,6 @@
 <h1>Hospital WebSite</h1>
 
-> Status: Finalizado... ⚠️
+> Status: Finalizado... ✔
 
 ### Este é um website montado pensando no aperfeiçoamento do meu html, css e javascript.
 
